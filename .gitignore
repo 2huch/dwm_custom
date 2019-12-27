@@ -1,5 +1,4 @@
 src/dwm
 src/*.o
-src/*.def*
 src/*.orig
 src/*.rej
